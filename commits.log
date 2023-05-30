@@ -1,0 +1,113 @@
+commit fccb3b9797f0a68aee6ec0b766fba9cb8d3a7e11
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Fri May 26 18:22:56 2023 -0400
+
+    Agregando 2 párrafos
+
+commit 562200f440de5b4966765645e7899ee810320c1c
+Merge: 2c9c70a fa8e707
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Fri May 26 18:18:11 2023 -0400
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 2c9c70a232cbe613e7fb6d7bc1739dfb73488676
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Fri May 26 17:34:43 2023 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit fa8e707ef0c4df0724866892063f0127183d0da3
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Fri May 26 17:34:43 2023 -0400
+
+    Agregando las estaciones del año
+
+commit 0397c28066591ed641a146643cd214491b23cf94
+Merge: b4f7541 53fda61
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Fri May 26 17:19:38 2023 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 53fda61e7c946d9e65503abdd81018e1767ed0cf
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Fri May 26 17:08:46 2023 -0400
+
+    Agregando index.js al index.html
+
+commit b4f7541e92e812736e3106479bbf4fbcb91b7bfd
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Fri May 26 17:03:22 2023 -0400
+
+    Agregando style.css al index.html
+
+commit 04f95d91023fd8d9a08baae8555c3a8cfc4d6cd9
+Merge: 640e995 881ee00
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Fri May 26 16:50:55 2023 -0400
+
+    Merge branch 'js'
+
+commit 640e995c14e8b6991650d19be9cf390522373122
+Merge: e12c81a f40072e
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Fri May 26 16:50:03 2023 -0400
+
+    Merge branch 'css'
+
+commit e12c81a1983fc4eda66b69da92adec64feaf4c31
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Fri May 26 16:47:39 2023 -0400
+
+    Cambio
+
+commit 881ee006a2cab05b6ffcc338d5282b9aa84cf10f
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Tue May 23 17:36:43 2023 -0400
+
+    Creando index.js
+
+commit f40072e7f7365681e7a4e9b40b7012b0dff33e79
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Tue May 23 16:58:26 2023 -0400
+
+    Creando style.css
+
+commit 21e4363bb102a4bfc48b2ef7cadffec13e3b8730
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Mon May 22 18:46:30 2023 -0400
+
+    Creando index.html
+
+commit bea80cffe0e73bd7b162f9ba749087bb57fba1d6
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Mon May 22 18:25:43 2023 -0400
+
+    Ignorando archivos .exe
+
+commit 8c32c07d1e757697df0ad6c38bf610b3fc520f28
+Author: Raziel <105675345+razielzz@users.noreply.github.com>
+Date:   Mon May 22 17:47:18 2023 -0400
+
+    Create LICENSE
+    
+    Creando licencia del repositorio
+
+commit 1309a7134de7a7528fc682c65a1d1c559617f910
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Mon May 22 17:36:06 2023 -0400
+
+    Agregando más contenido al README
+
+commit 10e1c4c11d4fcc9ad6cd9d1c389aedea79c49867
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Mon May 22 17:10:10 2023 -0400
+
+    Agregando contenido inicial al README
+
+commit c310729f268834b97dc6c935b10c3fba4000a5ad
+Author: Raziel Daniela <razieldaniela@gmail.com>
+Date:   Sat May 20 14:13:50 2023 -0400
+
+    Primer commit
